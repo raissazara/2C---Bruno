@@ -1,0 +1,41 @@
+body{background-color:white;
+     color:white;
+}
+
+.cabecalho {background-color:#00FF7F;
+            color: black;
+            display: flex;
+            justify-content: space-around;
+            padding: 10px 0; 
+}
+
+.cabecalho ul {
+                list-style-type: none; 
+                padding: 0;
+                margin: 0;
+                display: flex;
+                gap: 160px; 
+}
+            
+.cabecalho li {
+                display: flex;
+                align-items: center; 
+            }
+            
+.imagens {
+                width: 25px;
+                height: 25px; 
+                margin-right: 8px; 
+            }
+
+.textos {color: black;
+         padding: 16px 0;}
+
+.titulo-pag-um{color: black;
+               text-align: center;
+            }
+
+.saiba-mais{color: black;
+            text-align: center;}
+
+            
